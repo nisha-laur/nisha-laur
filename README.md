@@ -1,4 +1,4 @@
-[![MasterHead](https://img.freepik.com/free-vector/development-typographic-header-presenting-content-web-pages-website-layout-composition-color-development-idea-computer-technology-flat-vector-illustration_613284-2493.jpg?w=826&t=st=1686302009~exp=1686302609~hmac=6701562f7395cd67aaa4591be3c0840838fc2f7da67d974e52ecbee030cdc424)](https://rishavchanda.io)
+[![MasterHead](https://previews.123rf.com/images/karpenkoilia/karpenkoilia1806/karpenkoilia180600011/102988806-vector-line-web-concept-for-programming-linear-web-banner-for-coding.jpg)](https://rishavchanda.io)
 <h1 align="center">Hi 👋, I'm Nisha Laur</h1>
 <h3 align="center">A passionate Full Stack developer and an ML enthusiast from India.</h3>
 <img align="right" alt="Coding" width="400"  src="https://img.freepik.com/free-vector/hand-coding-concept-illustration_114360-8413.jpg?w=740&t=st=1686301684~exp=1686302284~hmac=8b31952ba30e69406c56a1a0117bf41fb22f34f24e42f3786f572b37d7978b7a">
