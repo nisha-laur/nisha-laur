@@ -5,7 +5,12 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nisha-laur&label=Profile%20views&color=0e75b6&style=flat" alt="nisha-laur" /> </p>
 
 
-
+**About Me**        
+- 🌱 I am a Student Developer and a tech enthusiast 
+- 👷 B.Tech (3rd year) at Indira Gandhi Delhi Technical University for Women
+- 🚀 Passionate, hard-working, quick learner
+- 😀 Always open to learn and grow
+           
 - 🌱 I’m currently learning **Machine Learning and it's Application in cyber security.**
 
 - 💬 Ask me about **MERN Stack, ML/AI**
