@@ -18,10 +18,10 @@
 - ⚡ Fun fact **I am a fun loving person , creative spirit and a sparkling personality.**
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nisha-laur" alt="nisha-laur" /></a> </p>
-<h3 align="left">Connect with me: nishalaur123678@gmail.com</h3>
+<h3 align="left">Connect with me: </h3>
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/nisha-laur-55245622b/" target="blank"><img align="center" src="https://content.linkedin.com/content/dam/me/business/en-us/amp/brand-site/v2/bg/LI-Bug.svg.original.svg" alt="https://www.linkedin.com/in/nisha-laur-55245622b/" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/https://leetcode.com/nisha_112/" target="blank"><img align="center" src="https://leetcode.com/_next/static/images/logo-ff2b712834cf26bf50a5de58ee27bcef.png" alt="https://leetcode.com/nisha_112/" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/https://leetcode.com/nisha_112/" target="blank"><img align="center" src="https://leetcode.com/_next/static/images/logo-ff2b712834cf26bf50a5de58ee27bcef.png" alt="https://leetcode.com/nisha_112/" height="30" width="35" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
