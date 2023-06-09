@@ -1,4 +1,4 @@
-[![MasterHead](https://previews.123rf.com/images/karpenkoilia/karpenkoilia1806/karpenkoilia180600011/102988806-vector-line-web-concept-for-programming-linear-web-banner-for-coding.jpg)](https://rishavchanda.io)
+[![MasterHead](https://img.freepik.com/premium-vector/colorful-banner-with-hands-working-computer-different-electronic-gadgets-devices-symbols-programming-software-development-program-coding_198278-4192.jpg?w=996)](https://rishavchanda.io)
 <h1 align="center">Hi 👋, I'm Nisha Laur</h1>
 <h3 align="center">A passionate Full Stack developer and an ML enthusiast from India.</h3>
 <img align="right" alt="Coding" width="400"  src="https://img.freepik.com/free-vector/hand-coding-concept-illustration_114360-8413.jpg?w=740&t=st=1686301684~exp=1686302284~hmac=8b31952ba30e69406c56a1a0117bf41fb22f34f24e42f3786f572b37d7978b7a">
