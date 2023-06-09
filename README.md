@@ -7,7 +7,7 @@
 
 **About Me**        
 - 🌱 I am a Student Developer and a tech enthusiast 
-- 👷 B.Tech (2rd year) at Indira Gandhi Delhi Technical University for Women(IGDTUW)
+- 👷 B.Tech (2nd year) at Indira Gandhi Delhi Technical University for Women(IGDTUW)
 - 🚀 Passionate, hard-working, quick learner
 - 😀 Always open to learn and grow
            
@@ -18,7 +18,7 @@
 - 📫 How to reach me **nishalaur123678@gmail.com**
 
 
-- 📄 Know about my experiences [Myself Nisha. I expertise in designing and developing websites . I have made about more than 20 websites using HTML, CSS, JS , Bootstrap, Nodejs, express and mongDB. I have completed more than 15 projects on fiverr(a freelancing site) with a rating of 4.7/5 .](Myself Nisha. I expertise in designing and developing websites . I have made about more than 20 websites using HTML, CSS, JS , Bootstrap, Nodejs, express and mongDB. I have completed more than 15 projects on fiverr(a freelancing site) with a rating of 4.7/5 .)
+- 📄 Know about my experiences:    I expertise in designing and developing websites . I have made about more than 20 websites using HTML, CSS, JS , Bootstrap, Nodejs, express and mongDB. I have completed more than 15 projects on fiverr(a freelancing site) with a rating of 4.7/5 .]Myself Nisha. I expertise in designing and developing websites . I have made about more than 20 websites using HTML, CSS, JS , Bootstrap, Nodejs, express and mongDB. I have completed more than 15 projects on fiverr(a freelancing site) with a rating of 4.7/5 .
 
 - ⚡ Fun fact **I am a fun loving person , creative spirit and a sparkling personality.**
 
