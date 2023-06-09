@@ -4,7 +4,7 @@
 <img align="right" alt="Coding" width="400"  src="https://img.freepik.com/free-vector/hand-coding-concept-illustration_114360-8413.jpg?w=740&t=st=1686301684~exp=1686302284~hmac=8b31952ba30e69406c56a1a0117bf41fb22f34f24e42f3786f572b37d7978b7a">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nisha-laur&label=Profile%20views&color=0e75b6&style=flat" alt="nisha-laur" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nisha-laur" alt="nisha-laur" /></a> </p>
+
 
 - 🌱 I’m currently learning **Machine Learning and it's Application in cyber security.**
 
@@ -12,10 +12,12 @@
 
 - 📫 How to reach me **nishalaur123678@gmail.com**
 
+
 - 📄 Know about my experiences [Myself Nisha. I expertise in designing and developing websites . I have made about more than 20 websites using HTML, CSS, JS , Bootstrap, Nodejs, express and mongDB. I have completed more than 15 projects on fiverr(a freelancing site) with a rating of 4.7/5 .](Myself Nisha. I expertise in designing and developing websites . I have made about more than 20 websites using HTML, CSS, JS , Bootstrap, Nodejs, express and mongDB. I have completed more than 15 projects on fiverr(a freelancing site) with a rating of 4.7/5 .)
 
 - ⚡ Fun fact **I am a fun loving person , creative spirit and a sparkling personality.**
 
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nisha-laur" alt="nisha-laur" /></a> </p>
 <h3 align="left">Connect with me: nishalaur123678@gmail.com</h3>
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/nisha-laur-55245622b/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/nisha-laur-55245622b/" height="30" width="40" /></a>
