@@ -7,7 +7,7 @@
 
 **About Me**        
 - 🌱 I am a Student Developer and a tech enthusiast 
-- 👷 B.Tech (2nd year) at Indira Gandhi Delhi Technical University for Women(IGDTUW)
+- 👷 B.Tech (3rd year) at Indira Gandhi Delhi Technical University for Women(IGDTUW)
 - 🚀 Passionate, hard-working, quick learner
 - 😀 Always open to learn and grow
            
